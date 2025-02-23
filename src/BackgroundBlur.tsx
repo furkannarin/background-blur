@@ -68,7 +68,6 @@ const BackgroundBlur = (props: Props) => {
                         toValue: 0
                     }).start(() => {
                         setVisible(false);
-                        AnimOpacityValRef.setValue(1);
                     });
                 } else {
                     setVisible(false);

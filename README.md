@@ -24,8 +24,11 @@ yarn add secure-screen
 ```
 
 ## Overview
-<img src="https://drive.google.com/file/d/1zlke_CsKCgNKzcHnQnbYDPbmIuFNZx7p/view" width="100%">
-<img src="https://drive.google.com/file/d/1OoGQ8LSxLd-IhPGrAZS8Pje9rpWs2aLH/view" width="100%">
+- **High Blur Intensity**
+<video src="./assets/overview-1.mp4" width="500" controls loop muted></video>
+
+- **Low Blur Intensity**
+<video src="./assets/overview-2.mp4" width="500" controls loop muted></video>
 
 ## Usage
 Can be used directly in the root file to provide a consistent screen style across your app.

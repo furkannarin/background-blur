@@ -1,6 +1,6 @@
 {
   "name": "react-native-background-blur",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "a package for securing the screen when in background",
   "main": "index.js",
   "module": "index.js",
@@ -19,10 +19,6 @@
     "input"
   ],
   "peerDependencies": {
-    "react": "^18.0.0",
-    "react-native": "^0.72.0"
-  },
-  "dependencies": {
     "react": "^18.0.0",
     "react-native": "^0.72.0"
   }
