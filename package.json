@@ -1,0 +1,29 @@
+{
+  "name": "react-native-background-blur",
+  "version": "0.0.7",
+  "description": "a package for securing the screen when in background",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "src/BackgroundBlur.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Furkan Narin",
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "react-native",
+    "blur",
+    "secure",
+    "background",
+    "input"
+  ],
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.72.0"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.72.0"
+  }
+}
