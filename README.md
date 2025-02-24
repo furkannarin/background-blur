@@ -24,15 +24,13 @@ yarn add secure-screen
 ```
 
 ## Overview
-- **High Blur Intensity**
-<img src="./assets/overview-1.png" width="40" height="40" />
-
 - **Low Blur Intensity**
-<img src="./assets/overview-2.png" width="40" height="40" />
+<img src="https://github.com/furkannarin/background-blur/blob/eac00cd25ed7a95fb97a882902cf9109645e8f76/assets/overview-1.png" width="%15" height="%15" />
+<img src="https://github.com/furkannarin/background-blur/blob/eac00cd25ed7a95fb97a882902cf9109645e8f76/assets/overview-2.png" width="%15" height="%15" />
 
 ## Usage
-Can be used directly in the root file to provide a consistent screen style across your app.
-Can also be used in a specific screen to provide blur functionality only for that screen.
+- Can be used directly in the root file to provide a consistent screen style across your app.
+- Can be used in a specific screen to provide blur functionality only for that screen.
 
 ```
 import BackgroundBlur from "react-native-background-blur";
